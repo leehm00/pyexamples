@@ -1,0 +1,3 @@
+improt pygame
+pygame.init()
+
