@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae26865f-8e53-4b90-8e87-1f638de39887" name="Default Changelist" comment="" />
+    <list default="true" id="ae26865f-8e53-4b90-8e87-1f638de39887" name="Default Changelist" comment="Pycharm第一次备份">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YD8gFPdjxYlMGZKqHX9S5f6yM8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +28,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.10">
     <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -101,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582465914863</updated>
       <workItem from="1583981961489" duration="902000" />
+      <workItem from="1584021369056" duration="2183000" />
     </task>
     <servers />
   </component>
@@ -116,10 +124,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583982232606" />
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584022411732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584022411732" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582707922071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582707922071" />
+    <state x="559" y="240" width="296" height="274" key="Github.ShareDialog" timestamp="1584022693291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="559" y="240" width="296" height="274" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1584022693291" />
+    <state x="450" y="71" key="Github.UntrackedFilesDialog" timestamp="1584022766342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="71" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584022766342" />
     <state width="1323" height="163" key="GridCell.Tab.0.bottom" timestamp="1583982875302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -136,10 +156,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583982875300" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1583982825479">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1584022685485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583982825479" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584022685485" />
     <state x="265" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1583981966000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
