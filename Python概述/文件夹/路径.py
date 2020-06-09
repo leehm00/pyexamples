@@ -1,7 +1,7 @@
 # _*_ coding.utf-8 _*_
 # 开发人员 : leehm
 # 开发时间 : 2020/6/7 19:19
-# 文件名称 : lu jing.py
+# 文件名称 : 路径.py
 # 开发工具 : PyCharm
 import os
 print(os.getcwd())
