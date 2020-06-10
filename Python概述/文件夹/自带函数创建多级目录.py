@@ -7,4 +7,4 @@ import os
 if not (os.path.exists('E:\文档\py examples\Python概述')):
     os.makedirs('E:\文档\py examples\Python概述\python\wuli\wala')
 else:
-    print('当文件已存在时，无法创建该文件')
+    print('当路径已存在时，无法创建')
