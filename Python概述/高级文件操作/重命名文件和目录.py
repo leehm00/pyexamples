@@ -4,7 +4,8 @@
 # 文件名称 : 重命名文件和目录.py
 # 开发工具 : PyCharm
 import os
-if (os.path.exists('E:\文档\py examples\Python概述\demo1')):     #先判断是否存在
+
+if (os.path.exists('E:\文档\py examples\Python概述\demo1')):  # 先判断是否存在
     os.rename('E:\文档\py examples\Python概述\demo1', 'E:\文档\py examples\Python概述\demo')
     print('重命名成功')
 else:

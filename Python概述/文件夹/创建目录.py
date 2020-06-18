@@ -4,6 +4,7 @@
 # 文件名称 : 创建目录.py
 # 开发工具 : PyCharm
 import os
+
 if not (os.path.exists('E:\文档\py examples\Python概述')):
     os.mkdir('E:\文档\py examples\Python概述')
 else:

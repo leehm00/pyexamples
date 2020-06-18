@@ -4,6 +4,7 @@
 # 文件名称 : 自带函数创建多级目录.py
 # 开发工具 : PyCharm
 import os
+
 if not (os.path.exists('E:\文档\py examples\Python概述')):
     os.makedirs('E:\文档\py examples\Python概述\python\wuli\wala')
 else:
