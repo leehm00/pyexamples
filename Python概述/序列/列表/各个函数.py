@@ -46,6 +46,7 @@ print(seq4)
 seq5 = ['one', 'two', 'three', 'four', 'five', 'six']
 print(sorted(seq5, key=str.lower, reverse=False))   # 不改变原列表
 print(seq5)
+# 反序:seq1.reverse()和reversed(seq1)区别同上
 # 列表推导式
 import random
 seq6 = [random.randint(10, 100)for i in range(10)]
