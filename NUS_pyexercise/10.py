@@ -3,4 +3,7 @@
 # 开发时间 : 2020/2/6  20:02
 # 文件名称 : 10.py
 # 开发工具 : PyCharm
-print('hello')
+a = input()
+b = input()
+print(a + b)
+print(int(a) + int(b))
