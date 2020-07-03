@@ -19,7 +19,7 @@ print(match01)
 match02 = match.end()
 print(match02)
 match03 = match.group()
-print(match03)
+print('match03', match03)
 search = re.search(pattern1, string1, re.I)     # 在整个字符串(区别于match)搜索第一个匹配的对象,
 # 返回大写M的match对象,否则返回None,
 # 语法规则同match

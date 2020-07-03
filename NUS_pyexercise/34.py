@@ -3,15 +3,16 @@
 # 开发时间 : 2020/7/1 10:39
 # 文件名称 : 34.py
 # 开发工具 : PyCharm
-a = input()
+a1 = input()
+a = a1.split()
 name = input()
 names = name.split()
 grade = input()
 grades = grade.split()
 d = []
-for i in range(int(a[2])):
+for i in range(int(a[1])):
     d.append(input())
-for i in range(int(a[2])):
+for i in range(int(a[1])):
     seen_names = names[int(d[i][0])-1: int(d[i][2])]
     s = set(seen_names)
     seen_grades = grades[int(d[i][0])-1: int(d[i][2])]
