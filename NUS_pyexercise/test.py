@@ -14,9 +14,9 @@ for i in range(int(s[2])):
 for i in ops:
     op = i.split()
     if op[0] == '1':
-        lights[(int(op[1]) - 1)*int(op[2])] = 1
+        lights[(int(op[1]) - 1)*int(s[1])+int(op[2])-1] = 1
     if op[0] == '2':
-        lights[(int(op[1]) - 1)*int(op[2])] = 0
+        lights[(int(op[1]) - 1)*int(s[1])+int(op[2])-1] = 0
     if op[0] == '3':
         for j in range(int(s[1])):
             if lights[(int(op[1])-1)*int(s[1])+j] == 1:
@@ -27,5 +27,4 @@ for i in ops:
     for x in lights:
         if x == 1:
             count += 1
-    print(lights)
     print(count)
