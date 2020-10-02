@@ -5,3 +5,4 @@
 # 开发工具 : PyCharm
 # print('写入内容'[, file = 文件指针])
 a = float(input('输入身高'))
+print(a)
