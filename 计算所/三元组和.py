@@ -28,3 +28,6 @@ class Solution:
                 if nums[second] + nums[third] == target:
                     ans.append([nums[first], nums[second], nums[third]])
         return ans
+
+solu = Solution
+print(solu.threeSum(self = solu,nums = [-1,0,1,2,-1,-4]))
